@@ -1,2 +1,2 @@
 # learnGit
-Learn Git Repository
+Learn Git Repository for learning git commands 
